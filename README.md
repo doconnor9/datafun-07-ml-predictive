@@ -9,3 +9,6 @@ Time series and simple linear regression
 
 #### Chapter 15 (Section 15.4)
 Simple linear regression and predictions
+
+NYC temps information came from National Oceanic and Atmospheric Administration (NOAA) at the following url:
+https://www.ncdc.noaa.gov/cag/
